@@ -32,7 +32,7 @@ Er wordt automatisch een tabel aangemaakt in de databank die de volgende naam he
 
 In de map documents in de plugindirectory worden de artikelen opgeslagen.
 
-## plugin pramaters
+## plugin paramaters
 
 De plugin bevat de volgende parameters.
 
